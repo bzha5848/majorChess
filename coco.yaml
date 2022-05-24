@@ -1,7 +1,7 @@
 path: ../content/envolve  
-train: /content/majorChess/train/images
+train: /content/majorChess/test/images
 val: /content/majorChess/val/images 
-test: /content/majorChess/test/images  
+test: /content/majorChess/train/images  
 
 # Classes
 nc: 13  # number of classes
