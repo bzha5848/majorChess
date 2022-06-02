@@ -11,4 +11,3 @@ An explanation of the dataset is shown as follows:
 5. The images has 7 data augmentation method: gauss, salt&pepper, possion, saturation with hsv, saturation with hsl, contrast, and speckle
 6. An example of modelling time of the dataset is about 30 min, with the environment of Colab Pro, running on YOLOv5.
 7. Enjoy!!
-8. Any tech issues pls email bzha5848@uni.sydney.edu.au and he'll reply after the final exam, which is so hard that he has to work overnight EVERYDAY
